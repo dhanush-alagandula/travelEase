@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="public/travel-logo-design.jpg" alt="TravelEase Logo" width="180" />
-</p>
-
 # ✈️ TravelEase
 
 **Your Smart AI Travel Companion**
 
-[🌐 Visit the Live Website!](https://bit.ly/TravelEase)
+[🌐 Visit the Live Website!](https://travel-ease-five.vercel.app/)
 
 ---
 
@@ -83,22 +79,6 @@ TravelEase is a smart travel companion web app that uses AI to generate personal
 
 ---
 
-## 📁 Project Structure
-
-```
-TravelEase/
-├── public/
-│   └── travel-logo-design.jpg
-├── src/
-│   ├── components/         # Reusable UI components
-│   ├── create-trip/        # Trip creation logic and UI
-│   ├── view-trip/          # Trip viewing pages
-│   ├── service/            # API and Firebase configuration
-│   └── about-us/           # About page and contact info
-└── ...
-```
-
----
 
 ## 🧑‍💻 Tech Stack
 
@@ -112,5 +92,5 @@ TravelEase/
 ---
 
 <p align="center">
-  <b>Ready to plan your next adventure? <a href="https://bit.ly/TravelEase">Try TravelEase now! 🚀</a></b>
+  <b>Ready to plan your next adventure? <a href="https://travel-ease-five.vercel.app/">Try TravelEase now! 🚀</a></b>
 </p>
